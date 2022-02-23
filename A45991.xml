@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act to prevent frauds by clandestine mortgages ; An act for the more easy obtaining partitions of lands in coparcenary joyn-tenancy, and tenancy in common, and bounding and mearing of lands</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45991</idno>
+            <idno type="STC">Wing I325</idno>
+            <idno type="STC">ESTC R39292</idno>
+            <idno type="EEBO-CITATION">18367689</idno>
+            <idno type="OCLC">ocm 18367689</idno>
+            <idno type="VID">107364</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107364)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1636:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act to prevent frauds by clandestine mortgages ; An act for the more easy obtaining partitions of lands in coparcenary joyn-tenancy, and tenancy in common, and bounding and mearing of lands</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mortgage loans --  Ireland.</term>
+               <term>Fraud --  Ireland.</term>
+               <term>Joint tenancy --  Ireland.</term>
+               <term>Ireland --  History --  1691-</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107364:1"/>
+            <p>AN ACT To Prevent FRAUDS BY <hi>Clandeſtine Mortgages.</hi>
+            </p>
+            <p>AN ACT For the more EASY OBTAINING Partitions of Lands. IN Coparcenary Joyn-tenancy, and Tenancy in Common, and Bounding and Mearing of Lands.</p>
+            <figure/>
+            <p>
+               <hi>DUBLIN:</hi> Printed by <hi>Andrew Crook,</hi> Printer to the King's Moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty, on <hi>Cork-Hill,</hi> near <hi>Copper-Alley,</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:107364:2"/>
+            <pb n="3" facs="tcp:107364:2"/>
+            <head>An ACT to Prevent Frauds, by Clandeſtine Mortgages. CHAP. XXXVI.</head>
+            <p>WHEREAS great Frauds and De<g ref="char:EOLhyphen"/>ceits, are too often Practiſed by Neceſ<g ref="char:EOLhyphen"/>ſitous and Evil diſpoſed perſons, in Borrowing of Money, and giving Iudgments, Statutes, and Recognizances privately, for ſecu<g ref="char:EOLhyphen"/>ring the Re-payment of the ſaid Money; and the ſame perſons do afterwards Borrow Money, up<g ref="char:EOLhyphen"/>on Security of their Lands, of other perſons, and do not acquaint the latter Lender thereof with the ſame, whereby ſuch latter Lender is very often in danger to loſe his whole Money, or forced to pay off the Debts ſecured by the ſaid Iudgments, Statutes, and Recognizances, before they can have any Benefit of the ſaid Mortgages.</p>
+            <p>And whereas divers perſons do many times Mortgage their Lands more then once, with<g ref="char:EOLhyphen"/>out giving Notice of their firſt Mortgage, where<g ref="char:EOLhyphen"/>by Lenders of Money, upon Second, or after Mortgages, do often loſe their Money, and are put to great Charges in Sutes, and otherwiſe.</p>
+            <p>For Remedy whereof, and Preventing the ſame, as much as may be for the Future, May it pleaſe Your Sacred Majeſty, that it may be Enacted.</p>
+            <p>And be it Enacted by the King's Moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty, by, and with the Advice and Con<g ref="char:EOLhyphen"/>ſent
+<pb n="4" facs="tcp:107364:3"/>
+of the Lords Spiritual and Temporal, and Commons in this preſent Parliament Aſſembled, and by the Authority of the ſame, That if any perſon or perſons, from, and after the Firſt Day of <hi>April,</hi> which ſhall be in the Year of Our Lord God, One thouſand Six hundred and Ninety eight, ſhall Borrow any money, or for any other Valuable conſideration, for the payment thereof, voluntarily Give, Acknowledge, Permit, or Su<g ref="char:EOLhyphen"/>fer to be Entred againſt him or them, One or more Iudgment or Iudgments, Statute or Sta<g ref="char:EOLhyphen"/>tutes, Recognizance or Recognizances, to any Perſon or Perſons, Creditor or Creditors; and if the ſame Borrower or Borrowers, Debtor or Debtors, ſhall afterwards Take up, or Borrow any other Summ or Summs of money, of any other perſon or perſons, or for other Valua<g ref="char:EOLhyphen"/>ble conſideration, become Indebted to ſuch perſon or perſons; And for Securing the Re-payment, and Diſcharge thereof, ſhall Mortgage his, her, or their Lands or Tenements, or any part there<g ref="char:EOLhyphen"/>of, to the ſaid Second, or other Lender, or Len<g ref="char:EOLhyphen"/>ders of the ſaid money, Creditor or Creditors, or to any other perſon or perſons in Truſt, for, or to the Vſe of ſuch Second, or other Lender or Lenders, Creditor or Creditors, and ſhall not give Notice to the ſaid Mortgage or Mortgageés, of the ſaid Iudgment or Iudgments, Statute or Statutes, Recognizance or Recognizances in Writing, under his, her, or their Hand or Hands, before the Execution of the ſaid Mortgage or Mortgages, unleſs ſuch Mortgager or Mortga<g ref="char:EOLhyphen"/>gers, his, her, or their Heirs, upon Notice to him, her, or them, given by the Mortgageé, or Mortgageés of the ſaid Lands and Tenements, his, her, or their Executors, Adminiſtrators, or
+<pb n="5" facs="tcp:107364:3"/>
+Aſſigns in Writing, under his, her, or their Hands and Seals, Atteſted by Two or more ſufficient Witneſſes, of any ſuch former Iudg<g ref="char:EOLhyphen"/>ment or Iudgments, Statute or Statutes, Re<g ref="char:EOLhyphen"/>cognizance, or Recognizances, ſhall within Six Months after ſuch notice given, pay off, and Diſcharge the ſaid Iudgment or Iudgments, Statute or Statutes, Recognizance or Recogni<g ref="char:EOLhyphen"/>zances, and all Intereſt, and Charges, due there<g ref="char:EOLhyphen"/>upon, and cauſe, or procure the ſame to be Va<g ref="char:EOLhyphen"/>cated, or Diſcharged by Record. that then the Mortgager or Mortgagers, of the ſaid Lands and Tenements, his, her, or their Heirs, Exe<g ref="char:EOLhyphen"/>cutors Adminiſtrators, or Aſſigns, ſhall have no Benifit, or Remedy againſt the ſaid Mort<g ref="char:EOLhyphen"/>gageé, or Mortgageés, his, her, or their Heirs, Executors, Adminiſtrators, or Aſſigns, or any of them in Equity, or elſewhere, for Re<g ref="char:EOLhyphen"/>demption of the ſaid Lands and Tenements, or any part thereof; but the ſaid Mortgageé and Mortgageés, his, her, or their Heirs, Executors, Adminiſtrators, and Aſſigns, ſhall, and may hold, and enjoy the ſaid Lands and Tenements, for ſuch Eſtate, and Term therein as were or was Granted and Settled, to the ſaid Mortgageé or Mortgageés, againſt the ſaid Mortgager, or Mortgagers, and all perſon and perſons, lawful<g ref="char:EOLhyphen"/>ly Claming, from, by or under him, her or them, Freéd from Equity of Redemption, and as fully to all Intents and Purpoſes, what<g ref="char:EOLhyphen"/>ſoever, as if the ſame had been purchaced abſo<g ref="char:EOLhyphen"/>lutely, and without any Power, or Liberty of Redemption.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That if any perſon or perſons, who have, or hath once Mortgaged, or from, and after
+<pb n="6" facs="tcp:107364:4"/>
+the ſaid Firſt Day of <hi>April,</hi> ſhall Mortgage any Lands or Tenements, to any perſon or perſons for Security of Money Lent, or other<g ref="char:EOLhyphen"/>wiſe Accrued, or become Due, or for other Va<g ref="char:EOLhyphen"/>luable Conſiderations; and if the ſaid Mort<g ref="char:EOLhyphen"/>gager or Mortgagers, ſhall again Mortgage the ſame Lands or Tenements, or any part thereof, to any other perſon or perſons, for Va<g ref="char:EOLhyphen"/>luable Conſiderations; the ſaid former Mort<g ref="char:EOLhyphen"/>gage being in Force, and not Diſcharged, and ſhall not diſcover to the ſaid Second, or other Mortgageé or Mortgageés, or ſome, or one of them, the former Mortgage or Mortgages, in Writing under his or their Hands; that then, and in thoſe Caſes alſo, the ſaid Mortgager or Mortgagers, his, her, or their Heirs, Executors Adminiſtrators, or Aſſigns, ſhall have no Relief, or Equity of Re<g ref="char:EOLhyphen"/>demption againſt the ſaid Second, or after Mortgageé, or Mortgageés, his, her, or their Heirs, Executors, Adminiſtrators, or Aſſigns, upon the ſaid after Mortgage, or Mortgages, but that ſuch Mortgageé or Mortgageés, his, her, or their Heirs, Executors, Adminiſtrators, and Aſſigns, ſhall, and may Hold and Enjoy ſuch, more then once Mortgaged Lands and Tenements, for ſuch Eſtate and Term therein, as were, or was Granted, and conveyed by the ſaid Mortgager or Mortgagers, againſt him, her, or them, his, her, or their Heirs, Execu<g ref="char:EOLhyphen"/>tors or Adminiſtrators reſpectively, Freéd from Equity of Redemption, and as fully to all In<g ref="char:EOLhyphen"/>tents and Purpoſes, as if the ſame had beén an abſolute purchaſe, and without any Power, or Liberty of Redemption.</p>
+            <p>Provided always, and be it further Enacted by the Authority aforeſaid That nevertheleſs,
+<pb n="7" facs="tcp:107364:4"/>
+if it ſo happen, that there be more then one Mortgage, at the ſame time made by any perſon or perſons, to any perſon, or perſons, of the ſame Lands and Tenements, the ſeveral late, or under Mortgageés, his, her, or their Heirs, Exe<g ref="char:EOLhyphen"/>cutors, Adminiſtrators, or Aſſigns, ſhall have Power to Redeém any former Mortgage or Mort<g ref="char:EOLhyphen"/>gages, upon payment of the Principal Debt, Intereſt, and Coſts of Sute, to the Prior Mort<g ref="char:EOLhyphen"/>gageé or Mortgageés, his, her, or their Heirs, Exe<g ref="char:EOLhyphen"/>cutors, Adminiſtrators, or Aſſigns, any thing herein contained to the contrary thereof, in any wiſe notwithſtanding.</p>
+            <p>Provided always, that nothing in this Act contained, ſhall be Conſtrued, Deémed, or Ex<g ref="char:EOLhyphen"/>tended, to Bar any Widow of any Mortgager of Lands or Tenements, from her Dower and Right, in, or to the ſaid Lands, who did not Le<g ref="char:EOLhyphen"/>gally Ioyn with her Husband in ſuch Mortgage, or otherwiſe lawfully Bar, or Exclude her ſelf, from ſuch her Dower or Right.</p>
+         </div>
+         <div type="act">
+            <head>An ACT for the more Eaſy obtaining Par<g ref="char:EOLhyphen"/>titions of Lands in Caparce nary Joynt-tenancy, and Tenancy in Common, and Bounding, and Mearing of Lands. CHAP. XXXVII.</head>
+            <p>WHereas the Proceédings upon Writs of Partition, betweén Coparceners, by the Common-Law, or Cuſtom, Ioynt-Tenants, or Tenants in Common, are found by Experience, to be Tedious Chargable, and oftentimes In<g ref="char:EOLhyphen"/>effectual,
+<pb n="8" facs="tcp:107364:5"/>
+by Reaſon of the difficulty of Diſcove<g ref="char:EOLhyphen"/>ring the perſons and Eſtates of the Tenants of the ſeveral Manours, Meſſuages, Lands, Te<g ref="char:EOLhyphen"/>nements, and Hereditaments, to be Divided, and the Defective and Dilatory Executing and Re<g ref="char:EOLhyphen"/>turning of the Proceſs, of Summons, Attach<g ref="char:EOLhyphen"/>ment and Diſtreſs, and other Dificulties and Impediments in Making and Eſtabliſhing of Partitions; by Reaſon of which, divers perſons having Vn-divided Parts, or Pur-parts, are greatly Prejudiced and Oppreſſed, and the Pre<g ref="char:EOLhyphen"/>miſe are frequently Waſted, or lye Vncultiva<g ref="char:EOLhyphen"/>ted, or not Improved, and the Profits of the ſame thereby Totally are in a greater meaſure Loſt. For Remedy thereof:</p>
+            <p>Be it Enacted by the King's Moſt Excellent Majeſty, by, and with the Advice and Conſent of the Lords Spiritual and Temporal and Com<g ref="char:EOLhyphen"/>mons in this preſent Parliament Aſſembled, and by Authority of the ſame, That from the Sixth Day of <hi>November,</hi> One thouſand Six hundred Ninety ſeaven, and after Proceſs of Summons, or Attachment upon any Writ of Partition Returned, and Affidavit made thereupon by any Sufficient and Credible perſon, that due Notice in Writing is, or hath beén given of the ſaid Writ of Partition, to the Tenant or Tenants, to the ſaid Writ or Action, and a Copy there<g ref="char:EOLhyphen"/>of left with the Occupyer, or Tenant or Te<g ref="char:EOLhyphen"/>nants, in Poſſeſſion of the ſaid Lands; or if they, or any of them cannot be found, then to the Wife, Son or Daughter, being of the Age of One and Twenty Years, or upwards, of ſuch Tenant or Tenants, to the ſaid Writ or Action, or Tenant in actual Poſſeſſion, as aforeſaid, by Vertue of any Eſtate of Freéhold for Years, or to
+<pb n="9" facs="tcp:107364:5"/>
+at Will, or any uncertain Intereſt, of, or in the ſaid Manours, Lands, Tenements and Heredi<g ref="char:EOLhyphen"/>taments, whereof the ſaid Partition is ſo De<g ref="char:EOLhyphen"/>manded, unleſs the ſaid Tenant in Actual Poſſeſ<g ref="char:EOLhyphen"/>ſion, be Demandant in the ſaid Action, at the leaſt Forty Days before the Day of the Return of the ſaid Summons or Attachment; if in ſuch Caſe the Tenant or Tenants to ſuch Writ, or Tenant in Poſſeſſion to the Manours, Lands, Tenements and Hereditaments, as aforeſaid, or any of them, ſhall not within the Term after Re<g ref="char:EOLhyphen"/>turn of ſuch Writ of Summons or Attachment, or the Term following the ſame, cauſe an Ap<g ref="char:EOLhyphen"/>pearance to be Entred in ſuch Court, where ſuch Writ of Summons or Attachment ſhall be Re<g ref="char:EOLhyphen"/>turnable, then, and in Default of ſuch Appear<g ref="char:EOLhyphen"/>ance, the Demandant having Filed his Declara<g ref="char:EOLhyphen"/>tion, the Court may, and ſhall proceéd to Exa<g ref="char:EOLhyphen"/>mine the Title of the ſaid Demandant, ſet forth in his Declaration, and the Content, or Quan<g ref="char:EOLhyphen"/>tity of his Part, or Pur-part of the ſaid Lands and Premiſes, and according as they ſhall find his right Part and Pur-part to be, they ſhall for ſo much, cauſe Iudgment by Default, to be Entred for the ſaid Demandant, and thereupon Order and Award a Writ, to make Partition, whereby ſuch Proportion, Part and Pur-part, may be ſet out to him in Severalty; of which ſaid Writ of Execution, Notice ſhall be given to the Occupier, Tenant or Tenants, of the ſaid Manours, Lands, Tenements and Heredita<g ref="char:EOLhyphen"/>ments, at leaſt Six Days before the Execution thereof; and the ſame being after ſuch Notice duly Executed and Returned, and Final Iudg<g ref="char:EOLhyphen"/>ment thereupon Entred, the ſame ſhall be good, Binding, and Concluſive to all perſons whatſo<g ref="char:EOLhyphen"/>ever,
+<pb n="10" facs="tcp:107364:6"/>
+and to the ſeveral Rights, Titles, and Intereſts, which they, or any of them have, or ſhall at any time Claim, or pretend to have in any of the ſaid Manours, Lands, Tenements, and Hereditaments, mentioned in the ſaid Iudg<g ref="char:EOLhyphen"/>ment and Writ of Partition ſo Awarded, as a<g ref="char:EOLhyphen"/>foreſaid, although all perſons concerned, are not Named in the Proceédings thereupon, nor the Title of the Tenants to the ſaid Writ truly ſet forth.</p>
+            <p>Provided always, Lhat if ſuch Tenant or Tenants, or perſon concerned, or any of them, againſt whom, or their Right or Title, ſuch Iudgment by Default is given, ſhall within the ſpace of One Year, after the Firſt Iudgment En<g ref="char:EOLhyphen"/>tred, or in Caſe of Infancy, Coverture, <hi>Non ſane Memorie,</hi> or Adſence out of the Kingdom, then within One Year after his, her, or their Return, or the Determination of ſuch Inabili<g ref="char:EOLhyphen"/>ty, apply themſelves by Motion to the Court, where ſuch Iudgments are Entred, and ſhew good, and probable matter in Bar of ſuch Par<g ref="char:EOLhyphen"/>tition, or that the Demandant hath not Title to ſo much as he hath ſo Recovered; then, and in ſuch Caſe, the Court may Suſpend, or Set a<g ref="char:EOLhyphen"/>ſide ſuch Iudgment, and admit the Tenant or Tenants to appear and Plead, and the Cauſe ſhall Proceéd according to Due Courſe of Law, as if no ſuch Iudgment had beén given: And if the Court upon Hearing thereof, ſhall Ad<g ref="char:EOLhyphen"/>judge for the Firſt Demandant, then the ſaid Firſt Iudgment ſhall ſtand Confirmed, and be good againſt all perſons whatſoever, Except ſuch other perſons as ſhall be Abſent, or Diſabled, as aforeſaid, and the perſon or perſons, ſo Ap<g ref="char:EOLhyphen"/>pealing, ſhall be Awarded thereupon, to pay
+<pb n="11" facs="tcp:107364:6"/>
+Coſts, or if within ſuch time or times, afore<g ref="char:EOLhyphen"/>ſaid, the Tenants or perſons Concerned, Ad<g ref="char:EOLhyphen"/>mitting the Demandant's Title, Parts or Pur<g ref="char:EOLhyphen"/>parts, ſhall yet ſhew to the Court any In<g ref="char:EOLhyphen"/>equality in the Partition, the Court may A<g ref="char:EOLhyphen"/>ward a new Partition to be made, in preſence of all parties Concerned, and if they will appear, notwithſtanding the Return, and Filing upon Record of the former; which ſaid Second Par<g ref="char:EOLhyphen"/>tition Returned and Filed, ſhall be Good, Va<g ref="char:EOLhyphen"/>lid, and Firm for ever, againſt all perſons what<g ref="char:EOLhyphen"/>ſoever, except, as before Excepted.</p>
+            <p>And be it Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That no Plea in Abatement ſhall be ad<g ref="char:EOLhyphen"/>mitted, or received in any Sute for Par<g ref="char:EOLhyphen"/>tition, nor ſhall the ſame be Abated by reaſon of the Death of any Tenant or Tenants thereunto.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That when the High-Sheriff, by rea<g ref="char:EOLhyphen"/>ſon of Diſtance, Infirmity, or any other Hin<g ref="char:EOLhyphen"/>drance, cannot conveniently be preſent at the Execution of any Iudgment in Partition, in ſuch Caſe, the Vnder-Sheriff, in preſence of Two Iuſtiecs of the Peace of the County, where the Lands, Tenements, or Hereditaments to be Divided, do lie, ſhall, and may proceéd to Exe<g ref="char:EOLhyphen"/>cution of any Writ of Partition, by Inquiſi<g ref="char:EOLhyphen"/>tion, in due Form of Law, as if the High-Sheriff were then perſonally preſent; and the High-Sheriff thereupon, ſhall, and is hereby Enabled and Required to make the ſame Return as if he were perſonally preſent at ſuch Execution. And in Caſe ſuch Partition be Made, Return<g ref="char:EOLhyphen"/>ed, and Filed, he or they that were Tenant or Tenants of any of the ſaid Meſſuages, Lands,
+<pb n="12" facs="tcp:107364:7"/>
+Tenements, or Hereditaments, or any Part or Pur-part thereof, before they were ſo Divided, ſhall continue, and be Tenant or Tenants, for ſuch Parts Set out ſeverally to the reſpective Land-lords, or Owners thereof, by, and under the ſame Conditions, Rents, Covenants, and Reſervations, where they are, or ſhall be ſo Divided, and the Land-lords and Owners of the ſeveral Parts and Pur-parts ſo Divided, and Allotted, as aforeſaid, ſhall Warrant and make good unto their reſpective Tenants, the ſaid ſe<g ref="char:EOLhyphen"/>veral Parts ſeverally after ſuch Partition, as they are or were Bound to do by any Copy, Leaſe, or Grant of their reſpective Parts be<g ref="char:EOLhyphen"/>fore any Partition made; and in Caſe any De<g ref="char:EOLhyphen"/>mandant be Tenant, in Actual Poſſeſſion to the Tenant, to the Writ or Action, for his Part and Proportion, or any Part thereof in the Meſſuages, Lands, Tenements, and Hereditaments to be Di<g ref="char:EOLhyphen"/>vided, by Virtue of a Writ of Partition, as afore<g ref="char:EOLhyphen"/>ſaid, for any Term of Life, Lives, or Years, or un<g ref="char:EOLhyphen"/>certain Intereſt, the ſaid Tenants ſhall ſtand and be Poſſeſſed of the ſaid Pur-parts, and Pro<g ref="char:EOLhyphen"/>portions, for the like Term and under the ſame Conditions and Covenants, when it is ſet out in ſeveralty, in purſuance of this, or any other Act, Statute, or Law, to that purpoſe.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That the reſpective Sheriffs, their Vnder-Sheriffs, and Deputies; and in Caſe of Sickneſs, or Diſability in the High-Sheriff, all Iuſtices of the Peace within their reſpective Di<g ref="char:EOLhyphen"/>viſions, ſhall after convenient Notice, give Due Attendance to the Executing ſuch Writ of Par<g ref="char:EOLhyphen"/>tition, unleſs reaſonable Cauſe be ſhewn to the Court upon Oath, and then Allowed of, or other<g ref="char:EOLhyphen"/>wiſe
+<pb n="13" facs="tcp:107364:7"/>
+be liable every of them to pay unto the De<g ref="char:EOLhyphen"/>mandant ſuch Coſts and Damages, as ſhall be Awarded by the Court, not exceéding Five pounds, for which the Demandant, or Plantiff, may bring his Action in any of His Majeſty's Courts of Record at <hi>Dublin,</hi> wherein no Eſ<g ref="char:EOLhyphen"/>ſoyn, Protection, Priviledge, or Wager of Law ſhall be Allowed, or more then One Impar<g ref="char:EOLhyphen"/>lance. And in Caſe the Demandant do not A<g ref="char:EOLhyphen"/>greé to pay unto the Sheriff or Vnder-She<g ref="char:EOLhyphen"/>riff, Iuſtices and Iurors, ſuch Feés as they ſhall reſpectively Demand for their pains and Attendance in the Execution of the ſame, and Returning thereof; then the Court ſhall Award what each perſon ſhall Receive, having reſpect to the Diſtance of the place, from their Reſpe<g ref="char:EOLhyphen"/>ctive Habitations, and the time they muſt ne<g ref="char:EOLhyphen"/>ceſſarily ſpend about the ſame, for which they may ſeverally bring their Actions as afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <p>Provided, that this Act ſhall continue in force for Seaven Years, and from thence to the end of the next Seſſion of the next Parliament, and no longer.</p>
+            <p>And whereas many Inconveniencies, and Law-Sutes, have heretofore Ariſen, and may hereafter Ariſe, by Reaſon the Bounds of the ſe<g ref="char:EOLhyphen"/>veral Proprieties of Lands within this Kingdom, are not ſufficiently Diſtinguiſhed, by certain and known Mears.</p>
+            <p>For prevention whereof, and for the better carrying off the Water, and Draining the Bogs, and wet Lands, and Improving the ſame.</p>
+            <p>Be it Enacted by the Authority aforeſaid, That where the Mears of Lands, betweén Propriety and Propriety, have, or ſhall hereafter
+<pb n="14" facs="tcp:107364:8"/>
+be ſet out, or Aſſertained by a Writ of Partition, Perambulation, or otherwiſe, the ſame ſhall at Equal Charge of the Proprietors thereof, or their Tenants, be Incloſed with good Ditches, where Earth ſufficient may be had to make the ſame, and therein one or two Rows of Quick-ſets ſhall be Planted; and where Earth ſhall be wanting, ſuch other Fences ſhall be made, as the nature of the Soil ſhall permit. And where Lands are Leaſed for a long term, it may ſeém Vnequal to lay the Charge of ſuch Ditches and Fences on the Landlords.</p>
+            <p>Be it therefore Enacted, that where Lands are Held in Feé-farm, or for Lives Renew<g ref="char:EOLhyphen"/>able for ever, or for a Term of Sixty Years, to run from the Sixth Day of <hi>November,</hi> One thouſand Six hundred Ninety ſeaven, there the Charge of making the Mears, or Fen<g ref="char:EOLhyphen"/>ces, as aforeſaid, ſhall be intirely born by the Tenant; and where Lands are Leaſed for Lives, wherein Threé Lives ſhall be Cur<g ref="char:EOLhyphen"/>rent, or for Years, where Twenty One Years ſhall be Vnexpired, at, or upon the ſaid Sixth day of <hi>November,</hi> One thouſand Six hundred Ninety ſeaven, there the ſaid Mears ſhall be Incloſed at the Equal Charge of Land<g ref="char:EOLhyphen"/>lord and Tenant; and where Lands are Lea<g ref="char:EOLhyphen"/>ſed for any leſſer time, or Term, the Bounds ſhall be Incloſed at the Sole Charge of the Landlord.</p>
+            <p>Provided, That nothing in this Act Contain<g ref="char:EOLhyphen"/>ed, ſhall be Taken, or Conſtrued to be Taken, to make Void any Covenants heretofore made betweén Landlord and Tenant, Relating to the Incloſing of Mears.</p>
+            <p>
+               <pb n="15" facs="tcp:107364:8"/>And be it further Enacted by the Authority aforeſaid, That whatſoever perſon or perſons, Chargeable by this Act, with the Fencing and Cloſing of their Bounds, as aforeſaid, who ſhall not have Actually done the ſame within Six Months after ſuch Partition made, ſhall Forfeit for his, or their neglect. One Year's Value of the ſaid Land, One Moyety there<g ref="char:EOLhyphen"/>of, to the uſe of the Poor of the Pariſh, where ſuch Lands ſhall lie, and the other Moyety to him, or them, that will Sue for the ſame: And if the perſon or perſons, Chargeable with the Incloſing his Mears, as aforeſaid, ſhall fur<g ref="char:EOLhyphen"/>ther neglect to do the ſame within One Year, he, or they, ſo Offending againſt this Act, ſhall Forfeit Two Years Value of the ſaid Lands, to be Paid and Recovered in manner afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <p>And it is hereby further Enacted by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That all Mearing, Fences Ditches and Drains, made, or hereafter to be made, be, and ſhall from time to time, and at all times hereafter, at the Equal Charge of the Tenants, and Occupiers of the ſaid Lands, be kept open Scoured and Cleanſed, that the Wa<g ref="char:EOLhyphen"/>ter may not ſtand, but paſs away, and that whatſoever perſon or perſons ſhall refuſe or neglect to do the ſame, ſhall Forfeit for ſuch refuſal and neglect, One Year's Value of the ſaid Land, to be Recovered in ſuch man<g ref="char:EOLhyphen"/>ner, and to ſuch Vſes, as is herein before Expreſſed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
